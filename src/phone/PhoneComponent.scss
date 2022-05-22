@@ -1,0 +1,25 @@
+.phone-container {
+  text-align: center;
+  display: flex;
+  margin: 0 auto;
+}
+
+.phone-info {
+  cursor: pointer;
+  a {
+    text-decoration: none;
+  }
+}
+
+.phone-name {
+  margin-top: 0;
+  color: black;
+}
+
+.icon-container {
+  position: relative;
+  top: 5px;
+  right: 5px;
+  height: 25px;
+  cursor: pointer;
+}
